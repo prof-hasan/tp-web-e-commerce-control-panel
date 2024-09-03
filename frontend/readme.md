@@ -1,0 +1,1 @@
+code repository: https://github.com/rodvl/e-shop-admin-panel-frontend
